@@ -1,6 +1,6 @@
 // Definição do nome e da quantidade de XP do herói
 let nomeDoHeroi = " "
-let xpDoHeroi = 5604
+let xpDoHeroi = 50000
 
 //Estruturas de decisão para determinar o nível do herói de acordo com XP
 if (xpDoHeroi < 1000) {
